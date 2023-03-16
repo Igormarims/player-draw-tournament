@@ -59,6 +59,10 @@ img {
   align-items: center;
 }
 
+.position-player {
+  width: 20px;
+}
+
 .container-add-players{
   width: 50%;
   padding-left: 15px;
